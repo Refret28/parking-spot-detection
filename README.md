@@ -2,7 +2,7 @@
 
 1) **Installing required dependencies:**
 ```bash
-    pip install requirements.txt
+    pip install -r requirements.txt
 ```
 
 2) **To mark objects in images, I recommend using the "labelImg" repository, which can be cloned by running the following command:**
